@@ -54,7 +54,7 @@
 ### 🚀 Tech Stack & Tools
 
 
-<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,nodejs,express,redux,tailwindcss,materialui,mongodb,postgresql,graphql,prisma,nginx,python,java,cpp,git,github,vercel,figma,bash,linux,postgres,heroku,vscode,docker,postman,redis" />
+<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,nodejs,express,redux,tailwindcss,neovim,mongodb,postgresql,graphql,prisma,nginx,python,cpp,git,github,vercel,figma,bash,linux,postgres,heroku,vscode,docker,postman,redis" />
 
 </div>
 
