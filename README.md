@@ -9,7 +9,7 @@
 </h1>
 
 <h3 align="center">
- 🚀 Full Stack Developer | MERN Wizard | AI Enthusiast | Code Artist 🎨
+ 🚀 Full Stack Developer | Problem Solver | AI Enthusiast | System Designer 🎨
 </h3>
 
 <div align="center">
