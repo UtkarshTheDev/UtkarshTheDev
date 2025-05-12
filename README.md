@@ -26,8 +26,7 @@
 
 ### 🧠 About Me
 
-- 🔥 I’m currently working on **[LocalLab](https://github.com/Developer-Utkarsh/LocalLab)** — a platform redefining local discoveries!
-- 🚀 All of my **live projects** at: [Portfolio Website](https://utkarshtiwari.vercel.app/)
+- 🔥 I’m currently working on **[LocalLab](https://github.com/Developer-Utkarsh/LocalLab)** — python package to run AI Models! <!-- - 🚀 All of my **live projects** at: [Portfolio Website](https://utkarshtiwari.vercel.app/)] -->
 - 🎯 Always learning **Backend | System Design | DSA | Agentic AI**.
 - 💬 Ask me about **Next.js | TypeScript | GraphQL | PostgreSQL | Node.JS**. 
 - 🎨 Side Hustle: Creating **AI Assistants**, **Dev Tools**, and **AI Filering API**.
