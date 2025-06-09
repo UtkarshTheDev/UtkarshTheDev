@@ -1,11 +1,13 @@
 <!-- Luxurious Pro GitHub Profile README for UtkarshTheDev -->
 
-<div align="center">
-  <img width="100%" height="300px" src="https://pixel-profile-ui.vercel.app/api/github-stats?username=UtkarshTheDev&screen_effect=true&include_all_commits=true&pixelate_avatar=false&theme=fuji&theme=fuji&color=%23ffffffFF&hide=issues" alt="cover" />
-</div>
+<picture decoding="async" loading="lazy">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/UtkarshTheDev/UtkarshTheDev/output/github-stats.png">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/UtkarshTheDev/UtkarshTheDev/output/github-stats-dark.png">
+  <img alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?username=UtkarshTheDev&screen_effect=true&theme=fuji&hide=issues&dithering=true&pixelate-avatar=false">
+</picture>
 
 <h1 align="center">
-  Hi 👋, I'm Utkarsh Tiwari
+  Hi 👋, I'm Utkarsh Tiwari&pi
 </h1>
 
 <h3 align="center">
