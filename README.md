@@ -1,7 +1,7 @@
 <!-- Luxurious Pro GitHub Profile README for UtkarshTheDev -->
 
 <div align="center">
-  <img width="100%" height="300px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/banners/banner1.gif" alt="cover" />
+  <img width="100%" height="300px" src="https://pixel-profile-ui.vercel.app/api/github-stats?username=UtkarshTheDev&screen_effect=true&include_all_commits=true&pixelate_avatar=false&theme=fuji&theme=fuji&color=%23ffffffFF&hide=issues" alt="cover" />
 </div>
 
 <h1 align="center">
@@ -65,13 +65,13 @@
 
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=UtkarshTheDev&theme=tokyonight" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=UtkarshTheDev&theme=tokyonight" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=UtkarshTheDev&theme=tokyonight" />
 <br/>
 <img src="https://github-readme-stats.vercel.app/api?username=UtkarshTheDev&theme=react&show_icons=true&hide_border=true&count_private=true" width="47%" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=UtkarshTheDev&theme=react&hide_border=true" width="47%" />
 <br/>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=UtkarshTheDev&theme=react-dark" />
-
-
 
 </div>
 
