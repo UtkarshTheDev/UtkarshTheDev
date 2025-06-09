@@ -18,9 +18,8 @@ jobs:
     steps:
       - name: generate github stats card
         uses: LuciNyan/pixel-profile/action@main
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
+          github_token: ${{ secrets.PIXEL_PROFILE_TOKEN }}
           outputs: |
             dist/github-stats?username=UtkarshTheDev&screen_effect=true&include_all_commits=true&pixelate_avatar=false&theme=fuji&color=%23ffffffFF&hide=issues
             dist/github-stats-dark?username=UtkarshTheDev&screen_effect=true&include_all_commits=true&pixelate_avatar=false&theme=crt&color=%23ffffffFF&hide=issues
