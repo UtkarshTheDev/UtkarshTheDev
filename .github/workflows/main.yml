@@ -1,17 +1,12 @@
 name: generate-and-upload-card
 
 on:
-  # run automatically every 24 hours
   schedule:
     - cron: "0 */24 * * *"
-
-  # allows to manually run the job at any time
   workflow_dispatch:
-
-  # run on every push on the master branch
   push:
     branches:
-    - master
+      - master
 
 jobs:
   generate:
@@ -23,13 +18,13 @@ jobs:
     steps:
       - name: generate github stats card
         uses: LuciNyan/pixel-profile/action@main
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           outputs: |
-            dist/github-stats?username=UtkarshTheDev&screen_effect=true&include_all_commits=true&pixelate_avatar=false&theme=fuji&theme=fuji&color=%23ffffffFF&hide=issues
-            dist/github-stats-dark?username=UtkarshTheDev&screen_effect=true&include_all_commits=true&pixelate_avatar=false&theme=fuji&theme=crt&color=%23ffffffFF&hide=issues
+            dist/github-stats?username=UtkarshTheDev&screen_effect=true&include_all_commits=true&pixelate_avatar=false&theme=fuji&color=%23ffffffFF&hide=issues
+            dist/github-stats-dark?username=UtkarshTheDev&screen_effect=true&include_all_commits=true&pixelate_avatar=false&theme=crt&color=%23ffffffFF&hide=issues
 
-      # push the content of <build_dir> to a branch
-      # the content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file> , or as github page
       - name: push github-contribution-grid-snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
