@@ -64,10 +64,14 @@
 ### 📈 GitHub Stats & Activity
 
 
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=UtkarshTheDev&theme=tokyonight" />
+<br/>
 <img src="https://github-readme-stats.vercel.app/api?username=UtkarshTheDev&theme=react&show_icons=true&hide_border=true&count_private=true" width="47%" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=UtkarshTheDev&theme=react&hide_border=true" width="47%" />
 <br/>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=UtkarshTheDev&theme=react-dark" />
+
+
 
 </div>
 
