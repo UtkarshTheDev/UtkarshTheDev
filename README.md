@@ -7,7 +7,7 @@
 </picture>
 
 <h1 align="center">
-  Hi 👋, I'm Utkarsh Tiwari&pi
+  Hi 👋, I'm Utkarsh Tiwari
 </h1>
 
 <h3 align="center">
