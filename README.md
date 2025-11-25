@@ -6,10 +6,6 @@
   <img alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?username=UtkarshTheDev&screen_effect=true&theme=fuji&hide=issues&dithering=true&pixelate-avatar=false">
 </picture>
 
-<h1 align="center">
-  Hi 👋, I'm Utkarsh Tiwari
-</h1>
-
 <h3 align="center">
  🚀 Full Stack Developer | Problem Solver | AI Enthusiast | System Designer 🎨
 </h3>
@@ -24,17 +20,14 @@
 
 </div>
 
----
+###
+
 <div align="center">
-
-### 🏆 GitHub Trophies
-
-
 <img src="https://github-profile-trophy.vercel.app/?username=UtkarshTheDev&theme=darkhub&margin-w=10&no-frame=true&row=1&column=8" />
 
 </div>
 
----
+#
 
 <details>
 <summary>
@@ -56,7 +49,7 @@
 
 </details>
 
----
+#
 
 <div align="center">
 
@@ -66,3 +59,6 @@
 <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,nodejs,express,redux,tailwindcss,neovim,mongodb,postgresql,graphql,prisma,nginx,python,cpp,git,github,vercel,figma,bash,linux,postgres,heroku,vscode,docker,postman,redis" />
 
 </div>
+
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
