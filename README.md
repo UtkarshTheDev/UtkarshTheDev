@@ -25,13 +25,12 @@
 </div>
 
 ---
-
 <div align="center">
 
-### 🚀 Tech Stack & Tools
+### 🏆 GitHub Trophies
 
 
-<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,nodejs,express,redux,tailwindcss,neovim,mongodb,postgresql,graphql,prisma,nginx,python,cpp,git,github,vercel,figma,bash,linux,postgres,heroku,vscode,docker,postman,redis" />
+<img src="https://github-profile-trophy.vercel.app/?username=UtkarshTheDev&theme=darkhub&margin-w=10&no-frame=true&row=1&column=8" />
 
 </div>
 
@@ -58,13 +57,12 @@
 </details>
 
 ---
+
 <div align="center">
 
-### 🏆 GitHub Trophies
+### 🚀 Tech Stack & Tools
 
 
-<img src="https://github-profile-trophy.vercel.app/?username=UtkarshTheDev&theme=darkhub&margin-w=10&no-frame=true&row=1&column=8" />
+<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,nodejs,express,redux,tailwindcss,neovim,mongodb,postgresql,graphql,prisma,nginx,python,cpp,git,github,vercel,figma,bash,linux,postgres,heroku,vscode,docker,postman,redis" />
 
 </div>
-
----
