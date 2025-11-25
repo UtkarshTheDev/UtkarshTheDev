@@ -26,30 +26,6 @@
 
 ---
 
-### 🧠 About Me
-
-- 🔥 I’m currently working on **[LocalLab](https://github.com/Developer-Utkarsh/LocalLab)** — python package to run AI Models! <!-- - 🚀 All of my **live projects** at: [Portfolio Website](https://utkarshtiwari.vercel.app/)] -->
-- 🎯 Always learning **Backend | System Design | DSA | Agentic AI**.
-- 💬 Ask me about **Next.js | TypeScript | GraphQL | PostgreSQL | Node.JS**. 
-- 🎨 Side Hustle: Creating **AI Assistants**, **Dev Tools**, and **AI Filering API**.
-- 🛠️ Passionate about Open Source, Dev Communities, and Pushing Code to the Limits.
-
----
-
-
-<div align="center">
-  
-<a href="https://utkarshtiwari.vercel.app/">
- 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=4000&pause=1000&color=00F5FF&center=true&vCenter=true&width=900&height=60&lines=🚀+Turning+Dreams+into+Code...;🎯+Building+Impactful+Projects...;🎨+Crafting+Beautiful+User+Experiences...;🔥+Code+is+Life%2C+Create+Something+Great!)
-
-</a>
-
-</div>
-
-
----
-
 <div align="center">
 
 ### 🚀 Tech Stack & Tools
@@ -61,38 +37,33 @@
 
 ---
 
+<details>
+<summary>
+  <div align="center">
+    <h2>📈 GitHub Stats & Activity</h2>
+    <p><i>👆 Click to open</i></p>
+  </div>
+</summary>
+
 <div align="center">
 
-### 📈 GitHub Stats & Activity
-
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=UtkarshTheDev&theme=tokyonight&hide_border=true" />
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=UtkarshTheDev&theme=tokyonight" />
-<br/>
-<img src="https://github-readme-stats.vercel.app/api?username=UtkarshTheDev&theme=react&show_icons=true&hide_border=true&count_private=true" width="47%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=UtkarshTheDev&theme=react&hide_border=true" width="47%" />
-<br/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=UtkarshTheDev&theme=react-dark" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=UtkarshTheDev&theme=tokyo-night&hide_border=true&area=true" />
 
 </div>
 
----
+</details>
 
+---
 <div align="center">
 
 ### 🏆 GitHub Trophies
 
 
-<img src="https://github-profile-trophy.vercel.app/?username=UtkarshTheDev&theme=onedark&margin-w=10&no-frame=true" />
-
-</div>
-
----
-
-<div align="center">
-
-### 💬 Quote that Drives Me
-  
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<img src="https://github-profile-trophy.vercel.app/?username=UtkarshTheDev&theme=darkhub&margin-w=10&no-frame=true&row=1&column=8" />
 
 </div>
 
