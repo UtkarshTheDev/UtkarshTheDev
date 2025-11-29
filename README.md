@@ -14,25 +14,10 @@
 
 ```typescript
 const utkarsh = {
-    currentlyWorkingOn: [
-        "Building scalable web applications",
-        "Exploring AI/ML technologies"
-    ],
-    lookingToCollaborateOn: [
-        "Open source projects",
-        "Innovative tech solutions"
-    ],
-    currentlyLearning: [
-        "Advanced System Architecture",
-        "Distributed Systems"
-    ],
-    askMeAbout: [
-        "System Design",
-        "AI",
-        "Full Stack Development",
-        "Hardware & IoT",
-        "DevOps & Tools"
-    ]
+    currentlyWorkingOn: ["Building scalable web applications", "Exploring AI/ML technologies"],
+    lookingToCollaborateOn: ["Open source projects", "Innovative tech solutions"],
+    currentlyLearning: ["Advanced System Architecture", "Distributed Systems"],
+    askMeAbout: ["System Design", "AI", "Full Stack Development", "Hardware & IoT", "DevOps & Tools"]
 };
 ```
 
