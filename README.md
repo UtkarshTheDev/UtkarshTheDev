@@ -1,4 +1,4 @@
-<!-- Luxurious Pro GitHub Profile README for UtkarshTheDev -->
+<!-- Professional GitHub Profile README for UtkarshTheDev -->
 
 <picture decoding="async" loading="lazy">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/UtkarshTheDev/UtkarshTheDev/output/github-stats.png">
@@ -10,30 +10,75 @@
  🚀 Full Stack Developer | Problem Solver | AI Enthusiast | System Designer 🎨
 </h3>
 
-<div align="center">
-  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://utkarshtiwari.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/UtkarshTheDev)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/developer_utkarsh/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/UtkarshTheDev)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@Utkarsh.tiwari__official#3659)
-
-</div>
-
-###
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=UtkarshTheDev&theme=darkhub&margin-w=10&no-frame=true&row=1&column=8" />
-
-</div>
-
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
+
+```typescript
+const utkarsh = {
+    currentlyWorkingOn: [
+        "Building scalable web applications",
+        "Exploring AI/ML technologies"
+    ],
+    lookingToCollaborateOn: [
+        "Open source projects",
+        "Innovative tech solutions"
+    ],
+    currentlyLearning: [
+        "Advanced System Architecture",
+        "Distributed Systems"
+    ],
+    askMeAbout: [
+        "System Design",
+        "AI",
+        "Full Stack Development",
+        "Hardware & IoT",
+        "DevOps & Tools"
+    ]
+};
+```
+
+<details>
+<summary>
+  <div align="center">
+    <h2>🛠️ Tech Stack & Tools</h2>
+    <p><i>👆 Click to expand</i></p>
+  </div>
+</summary>
+
+<div align="center">
+
+### Languages & Frameworks
+
+<img src="https://skillicons.dev/icons?i=typescript,javascript,python,cpp,go" />
+
+### Frontend Development
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwindcss,html,css,vite,remix,threejs,electron" />
+
+### Backend Development
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,graphql,nginx,bun,supabase" />
+
+### Databases & ORMs
+
+<img src="https://skillicons.dev/icons?i=postgresql,mongodb,redis,prisma" />
+
+### Hardware & IoT
+
+<img src="https://skillicons.dev/icons?i=arduino,raspberrypi" />
+
+### DevOps & Tools
+
+<img src="https://skillicons.dev/icons?i=docker,git,github,vercel,postman,bash,linux,neovim,vscode,figma,kubernetes,npm,pnpm,jest,arch" />
+
+</div>
+
+</details>
 
 <details>
 <summary>
   <div align="center">
     <h2>📈 GitHub Stats & Activity</h2>
-    <p><i>👆 Click to open</i></p>
+    <p><i>👆 Click to expand</i></p>
   </div>
 </summary>
 
@@ -48,14 +93,3 @@
 </div>
 
 </details>
-
-#
-
-<div align="center">
-
-### 🚀 Tech Stack & Tools
-
-
-<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,nodejs,express,redux,tailwindcss,neovim,mongodb,postgresql,graphql,prisma,nginx,python,cpp,git,github,vercel,figma,bash,linux,postgres,heroku,vscode,docker,postman,redis" />
-
-</div>
