@@ -21,6 +21,12 @@ const utkarsh = {
 };
 ```
 
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=UtkarshTheDev&theme=darkhub&margin-w=10&no-frame=true&row=1&column=8" />
+
+</div>
+
 <details>
 <summary>
   <div align="center">
@@ -62,7 +68,7 @@ const utkarsh = {
 <details>
 <summary>
   <div align="center">
-    <h2>📈 GitHub Stats & Activity</h2>
+    <h2>📈 Stats & Activity</h2>
     <p><i>👆 Click to expand</i></p>
   </div>
 </summary>
